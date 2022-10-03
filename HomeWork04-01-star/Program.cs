@@ -30,7 +30,7 @@ int Maxnumber = massiv[0];
 
 for (int i = 1; i < size; i++)
 { 
-    if (massiv[i]>Maxnumber);
+    if (massiv[i]>Maxnumber)
     {
         Maxnumber = massiv[i];
     }
